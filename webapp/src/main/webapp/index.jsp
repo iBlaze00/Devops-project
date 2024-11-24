@@ -45,7 +45,7 @@
                 <p>DevOps is a combination of development (Dev) and operations (Ops) aimed at unifying software development and software operations. It is a set of practices that automates the processes between software development and IT teams, allowing them to build, test, and release software faster and more reliably.</p>
                 
                 <p><b>Why DevOps?</b></p>
-                <p>In today’s fast-paced world, the need for quick deployment of high-quality software is essential. DevOps makes this possible by breaking down the silos between development and operations teams. By incorporating automation, continuous integration, and continuous delivery (CI/CD), DevOps helps businesses deliver high-quality software at an accelerated pace.</p>
+                <p>In todays fast-paced world, the need for quick deployment of high-quality software is essential. DevOps makes this possible by breaking down the silos between development and operations teams. By incorporating automation, continuous integration, and continuous delivery (CI/CD), DevOps helps businesses deliver high-quality software at an accelerated pace.</p>
 
                 <p><b>Benefits of DevOps</b></p>
                 <ul>
@@ -66,7 +66,7 @@
                 </ul>
 
                 <p><b>Getting Started with DevOps</b></p>
-                <p>If you’re new to DevOps, start by learning the basic concepts and principles. Explore key tools like Jenkins, Docker, Kubernetes, and Git. Once you have a good understanding, begin experimenting with setting up automated CI/CD pipelines and containerized applications.</p>
+                <p>If you're new to DevOps, start by learning the basic concepts and principles. Explore key tools like Jenkins, Docker, Kubernetes, and Git. Once you have a good understanding, begin experimenting with setting up automated CI/CD pipelines and containerized applications.</p>
                 
                 <p>DevOps is a journey, not a destination. By continuously learning and improving your processes, you can ensure that your software development lifecycle is as efficient and effective as possible.</p>
             </div>
