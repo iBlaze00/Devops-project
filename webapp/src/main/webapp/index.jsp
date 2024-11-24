@@ -58,11 +58,11 @@
                 <p><b>Tools and Technologies in DevOps</b></p>
                 <p>DevOps integrates a range of tools to help automate various stages of the software development lifecycle, including continuous integration, deployment, testing, and monitoring. Some popular DevOps tools include:</p>
                 <ul>
-                    <li><b>Jenkins</b> – For automating the build and deployment process.</li>
-                    <li><b>Docker</b> – For creating and managing containers, making the deployment process faster and more consistent.</li>
-                    <li><b>Kubernetes</b> – For managing containerized applications at scale.</li>
-                    <li><b>Git</b> – For version control and collaboration.</li>
-                    <li><b>Ansible</b> – For configuration management and automation.</li>
+                    <li><b>Jenkins</b>  For automating the build and deployment process.</li>
+                    <li><b>Docker</b>  For creating and managing containers, making the deployment process faster and more consistent.</li>
+                    <li><b>Kubernetes</b>  For managing containerized applications at scale.</li>
+                    <li><b>Git</b>  For version control and collaboration.</li>
+                    <li><b>Ansible</b>  For configuration management and automation.</li>
                 </ul>
 
                 <p><b>Getting Started with DevOps</b></p>
