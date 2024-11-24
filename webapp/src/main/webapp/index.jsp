@@ -27,7 +27,7 @@
 <body>
     <div class="container">
         <div class="form-container">
-            <h1 class="text-center">DevOps Learning Registration!!-Jessica</h1>
+            <h1 class="text-center">DevOps Learning Registration!</h1>
             <p class="text-center">Please fill in this form to create an account.</p>
             <hr>
             <form action="action_page.php">
@@ -60,7 +60,7 @@
             <hr>
             <div class="text-center">
                 <p>Already have an account? <a href="#">Sign in</a>.</p>
-                <p>Thank You, Happy Learning!</p>
+                <p>Thank You, Happy Learning!-Jessica</p>
                 <p>See You Again!</p>
             </div>
         </div>
