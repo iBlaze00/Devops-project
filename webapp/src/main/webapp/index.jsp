@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Register for DevOps Learning by Jess</title>
+    <title>Register for DevOps Learning</title>
     <!-- Add Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet">
     <style>
@@ -27,7 +27,7 @@
 <body>
     <div class="container">
         <div class="form-container">
-            <h1 class="text-center">DevOps Learning Registration!!</h1>
+            <h1 class="text-center">DevOps Learning Registration!!-Jessica</h1>
             <p class="text-center">Please fill in this form to create an account.</p>
             <hr>
             <form action="action_page.php">
