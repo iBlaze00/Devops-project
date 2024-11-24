@@ -27,7 +27,7 @@
 <body>
     <div class="container">
         <div class="form-container">
-            <h1 class="text-center">DevOps Learning Registration</h1>
+            <h1 class="text-center">DevOps Learning Registration!!</h1>
             <p class="text-center">Please fill in this form to create an account.</p>
             <hr>
             <form action="action_page.php">
