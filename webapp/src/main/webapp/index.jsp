@@ -37,7 +37,7 @@
             <div class="img-container">
                 <img src="https://miro.medium.com/v2/resize:fit:1400/1*EBXc9eJ1YRFLtkNI_djaAw.png" alt="DevOps image">
             </div>
-            <h1 class="text-center mt-4">DevOps Learning Journey</h1>
+            <h1 class="text-center mt-4">Welcome to your DevOps Learning Journey</h1>
             <p class="text-center">Exploring the world of DevOps and how it is shaping the future of software development!</p>
             <hr>
             <div class="content">
@@ -72,7 +72,7 @@
             </div>
             
             <div class="footer">
-                <p>Thanks for reading! Stay tuned for more insights on DevOps and how it is transforming the tech industry. – Jessica</p>
+                <p>Thanks for reading! Stay tuned for more insights on DevOps and how it is transforming the tech industry. by Jessica</p>
                 <p>Want to dive deeper? <a href="#">Register for DevOps Learning</a> and start your journey today!</p>
             </div>
         </div>
