@@ -3,65 +3,53 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Register for DevOps Learning</title>
+    <title>DevOps Blog by Jessica</title>
     <!-- Add Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet">
     <style>
         body {
             background-color: #f8f9fa;
         }
-        .form-container {
-            max-width: 600px;
+        .blog-container {
+            max-width: 800px;
             margin: 50px auto;
             padding: 20px;
             background-color: #fff;
             border-radius: 10px;
             box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
         }
-        .registerbtn {
-            background-color: #007bff;
-            color: white;
+        .blog-title {
+            font-size: 2rem;
+            font-weight: bold;
+            color: #007bff;
+        }
+        .author {
+            font-style: italic;
+            color: #6c757d;
+        }
+        .blog-content {
+            font-size: 1.2rem;
+            line-height: 1.8;
+        }
+        .read-more {
+            text-align: center;
+            margin-top: 20px;
         }
     </style>
 </head>
 <body>
     <div class="container">
-        <div class="form-container">
-            <h1 class="text-center">DevOps Learning Registration</h1>
-            <p class="text-center">Please fill in this form to create an account.</p>
+        <div class="blog-container">
+            <h1 class="blog-title">Why DevOps is the Future of Software Development</h1>
+            <p class="author">By Jessica, ME CSE</p>
             <hr>
-            <form action="action_page.php">
-                <div class="mb-3">
-                    <label for="Name" class="form-label"><b>Enter Name</b></label>
-                    <input type="text" class="form-control" id="Name" placeholder="Enter Full Name" name="Name" required>
-                </div>
-                <div class="mb-3">
-                    <label for="mobile" class="form-label"><b>Enter Mobile</b></label>
-                    <input type="text" class="form-control" id="mobile" placeholder="Enter Mobile Number" name="mobile" required>
-                </div>
-                <div class="mb-3">
-                    <label for="email" class="form-label"><b>Enter Email</b></label>
-                    <input type="email" class="form-control" id="email" placeholder="Enter Email" name="email" required>
-                </div>
-                <div class="mb-3">
-                    <label for="psw" class="form-label"><b>Password</b></label>
-                    <input type="password" class="form-control" id="psw" placeholder="Enter Password" name="psw" required>
-                </div>
-                <div class="mb-3">
-                    <label for="psw-repeat" class="form-label"><b>Repeat Password</b></label>
-                    <input type="password" class="form-control" id="psw-repeat" placeholder="Repeat Password" name="psw-repeat" required>
-                </div>
-                <div class="mb-3 form-check">
-                    <input type="checkbox" class="form-check-input" id="terms" required>
-                    <label class="form-check-label" for="terms">I agree to the <a href="#">Terms & Privacy</a>.</label>
-                </div>
-                <button type="submit" class="btn btn-primary w-100">Register</button>
-            </form>
-            <hr>
-            <div class="text-center">
-                <p>Already have an account? <a href="#">Sign in</a>.</p>
-                <p>Thank You, Happy Learning!</p>
-                <p>See You Again!</p>
+            <div class="blog-content">
+                <p>DevOps is not just a buzzword; it's a revolutionary approach that bridges the gap between development and operations teams. By fostering collaboration and streamlining workflows, DevOps helps organizations deliver software faster and more reliably.</p>
+                <p>Key practices in DevOps include Continuous Integration (CI), Continuous Deployment (CD), Infrastructure as Code (IaC), and monitoring. These practices ensure that teams can respond to changes quickly and maintain high-quality standards.</p>
+                <p>As technology evolves, DevOps continues to adapt, incorporating tools like Kubernetes, Docker, and Jenkins to improve scalability and efficiency. Embracing DevOps can transform your organization's development lifecycle, ensuring you stay competitive in the fast-paced tech industry.</p>
+            </div>
+            <div class="read-more">
+                <p><a href="#">Read more about DevOps...</a></p>
             </div>
         </div>
     </div>
